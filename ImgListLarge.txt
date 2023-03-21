@@ -6,7 +6,6 @@ https://upload.wikimedia.org/wikipedia/commons/4/4b/Cable_Car.JPG
 https://upload.wikimedia.org/wikipedia/commons/0/07/Cook_Strait.jpg
 https://upload.wikimedia.org/wikipedia/commons/8/8f/Frank_Kitts_Lagoon_%26_Wellington_Harbour.JPG
 https://upload.wikimedia.org/wikipedia/commons/c/cd/Frank_Kitts_lagoon_%26_modern_arts_display_near_the_bridge.JPG
-https://upload.wikimedia.org/wikipedia/commons/9/9e/Library_of_Congress_favicon.png
 https://upload.wikimedia.org/wikipedia/commons/a/a7/Location_of_Wellington.png
 https://upload.wikimedia.org/wikipedia/commons/3/31/Memorial_Statues.JPG
 https://upload.wikimedia.org/wikipedia/commons/c/c2/Modern_Art_%28Fruits_of_The_Garden%29_in_Wellington_Harbour.JPG
@@ -17,7 +16,6 @@ https://upload.wikimedia.org/wikipedia/commons/f/fe/Parliament_Library.JPG
 https://upload.wikimedia.org/wikipedia/commons/b/b2/Queens_Wharf_of_Wellington_Harbour.JPG
 https://upload.wikimedia.org/wikipedia/commons/6/6d/SIF-Beehive-3-Cropped.jpg
 https://upload.wikimedia.org/wikipedia/commons/b/b1/Storm_Wellington_Harbour.JPG
-https://upload.wikimedia.org/wikipedia/commons/1/19/Viaf_icon.png
 https://upload.wikimedia.org/wikipedia/commons/2/2d/Water_Whirler_Pier_Design_in_Wellington_Harbour.JPG
 https://upload.wikimedia.org/wikipedia/commons/a/a2/Wellington.JPG
 https://upload.wikimedia.org/wikipedia/commons/5/5d/WellingtonPanorama.jpg
@@ -58,7 +56,6 @@ https://upload.wikimedia.org/wikipedia/commons/8/8d/Auckland_urban_area.png
 https://upload.wikimedia.org/wikipedia/commons/2/2c/Civic_Theatre_Auckland.jpg
 https://upload.wikimedia.org/wikipedia/commons/c/c5/Devonport_1_%285642747430%29.jpg
 https://upload.wikimedia.org/wikipedia/commons/d/d0/IdRef_favicon.png
-https://upload.wikimedia.org/wikipedia/commons/9/9e/Library_of_Congress_favicon.png
 https://upload.wikimedia.org/wikipedia/commons/d/da/Lion_Rock_from_South_Piha.jpg
 https://upload.wikimedia.org/wikipedia/commons/c/c6/Map_of_the_Auckland_urban_area%2C_2009%2C_cropped.jpg
 https://upload.wikimedia.org/wikipedia/commons/1/14/National_Archives_Catalog_icon.png
@@ -67,7 +64,6 @@ https://upload.wikimedia.org/wikipedia/commons/0/03/Royal_Oak_roundabout_Aerial_
 https://upload.wikimedia.org/wikipedia/commons/f/f6/Skyline_of_Auckland_2012_flickr.jpg
 https://upload.wikimedia.org/wikipedia/commons/f/f9/The_Town_Hall_tower_and_clock%2C_Auckland_-_0232.jpg
 https://upload.wikimedia.org/wikipedia/commons/7/77/University_of_Auckland_Clock_Tower_building_from_front.JPG
-https://upload.wikimedia.org/wikipedia/commons/1/19/Viaf_icon.png
 https://upload.wikimedia.org/wikipedia/commons/8/8e/0_3060Kawakawa_-_Neuseeland_-_Hundertwassertoilette.jpg
 https://upload.wikimedia.org/wikipedia/commons/e/e8/Akaroa%2C_New_Zealand_%28satellite_view%29.jpg
 https://upload.wikimedia.org/wikipedia/commons/0/08/Akaroa_Harbour_entrance%2C_Canterbury%2C_New_Zealand%2C_22nd._Nov._2010_-_Flickr_-_PhillipC.jpg
@@ -158,7 +154,6 @@ https://upload.wikimedia.org/wikipedia/commons/b/bf/Japanese_black_bear_1.jpg
 https://upload.wikimedia.org/wikipedia/commons/3/36/King_of_the_Hill_%284204077163%29.jpg
 https://upload.wikimedia.org/wikipedia/commons/9/93/Kodiak_Bear_at_Dog_Salmon_Creek%2C_USFWS_11389.jpg
 https://upload.wikimedia.org/wikipedia/commons/e/e0/Leefgebied_aziatische_zwarte_beer.jpg
-https://upload.wikimedia.org/wikipedia/commons/9/9e/Library_of_Congress_favicon.png
 https://upload.wikimedia.org/wikipedia/commons/e/e3/Malaienbaer2_fcm.jpg
 https://upload.wikimedia.org/wikipedia/commons/2/27/MalayanSunBear.jpg
 https://upload.wikimedia.org/wikipedia/commons/b/b8/Map_of_Bear_species_distribution.png
@@ -228,7 +223,6 @@ https://upload.wikimedia.org/wikipedia/commons/b/b3/Heterodontus_francisci_catal
 https://upload.wikimedia.org/wikipedia/commons/3/30/Hydrolagus_alberti.jpg
 https://upload.wikimedia.org/wikipedia/commons/c/cc/King_of_herrings.png
 https://upload.wikimedia.org/wikipedia/commons/3/3f/Lampetra_fluviatilis.jpg
-https://upload.wikimedia.org/wikipedia/commons/9/9e/Library_of_Congress_favicon.png
 https://upload.wikimedia.org/wikipedia/commons/7/7e/Messina_Straits_Argyropelecus_hemigymnus.jpg
 https://upload.wikimedia.org/wikipedia/commons/b/b7/Myctophum_punctatum1.jpg
 https://upload.wikimedia.org/wikipedia/commons/1/14/National_Archives_Catalog_icon.png
