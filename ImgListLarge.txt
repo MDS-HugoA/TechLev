@@ -113,7 +113,6 @@ https://upload.wikimedia.org/wikipedia/commons/f/f1/Road_to_mount_cook_new_zeala
 https://upload.wikimedia.org/wikipedia/commons/2/22/Sky_Tower_02_%285642190377%29.jpg
 https://upload.wikimedia.org/wikipedia/commons/6/6a/Tasman_Valley_-_Aoraki_Mount_Cook_-_Canterbury.jpg
 https://upload.wikimedia.org/wikipedia/commons/3/32/Te_Hoho_Rock.jpg
-https://upload.wikimedia.org/wikipedia/commons/d/dc/The_huka_falls.ogv
 https://upload.wikimedia.org/wikipedia/commons/b/b0/Ulva_Island_rainforest.jpg
 https://upload.wikimedia.org/wikipedia/commons/a/a9/University_of_Otago.jpg
 https://upload.wikimedia.org/wikipedia/commons/f/f4/Waiau_River_upstream_of_Waiau_Ferry_Bridge.jpg
@@ -140,7 +139,6 @@ https://upload.wikimedia.org/wikipedia/commons/6/67/Black_bear_with_salmon.jpg
 https://upload.wikimedia.org/wikipedia/commons/4/4f/Blacky.jpg
 https://upload.wikimedia.org/wikipedia/commons/6/6e/Canadian_Rockies_-_the_bear_at_Lake_Louise.jpg
 https://upload.wikimedia.org/wikipedia/commons/9/96/Chengdu-pandas-d18.jpg
-https://upload.wikimedia.org/wikipedia/commons/7/7a/Cub_polar_bear_is_nursing_2.ogv
 https://upload.wikimedia.org/wikipedia/commons/6/65/Eisb%C3%A4ren_05.09.2013_mz_12.JPG
 https://upload.wikimedia.org/wikipedia/commons/5/51/Eskimo_hunter_and_polar_bear_slain_with_bow_and_arrow_LCCN2005691848.jpg
 https://upload.wikimedia.org/wikipedia/commons/7/7f/European_Brown_Bear.jpg
@@ -229,7 +227,6 @@ https://upload.wikimedia.org/wikipedia/commons/9/99/Hammerhead_shark.jpg
 https://upload.wikimedia.org/wikipedia/commons/6/65/Herringadultkils.jpg
 https://upload.wikimedia.org/wikipedia/commons/b/b3/Heterodontus_francisci_catalina.jpg
 https://upload.wikimedia.org/wikipedia/commons/3/30/Hydrolagus_alberti.jpg
-https://upload.wikimedia.org/wikipedia/commons/4/4d/Jer-Pa%C3%AEsson.ogg
 https://upload.wikimedia.org/wikipedia/commons/c/cc/King_of_herrings.png
 https://upload.wikimedia.org/wikipedia/commons/3/3f/Lampetra_fluviatilis.jpg
 https://upload.wikimedia.org/wikipedia/commons/9/9e/Library_of_Congress_favicon.png
