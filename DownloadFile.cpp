@@ -13,7 +13,7 @@ int main()
 	const wchar_t* dstFile = L"myFile.txt";
 
 	//NOTE: Depending on your Visual Studio version,
-	// you may need to change character set to a Unicode character set.
+	// you may need to change character set to 'Unicode character set'.
 	// Project>Properties>General>Project Defaults>Character Set: 
 
 	if (S_OK == URLDownloadToFile(NULL, srcURL, dstFile, 0, NULL))
