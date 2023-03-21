@@ -9,7 +9,6 @@ https://upload.wikimedia.org/wikipedia/commons/c/cd/Frank_Kitts_lagoon_%26_moder
 https://upload.wikimedia.org/wikipedia/commons/a/a7/Location_of_Wellington.png
 https://upload.wikimedia.org/wikipedia/commons/3/31/Memorial_Statues.JPG
 https://upload.wikimedia.org/wikipedia/commons/c/c2/Modern_Art_%28Fruits_of_The_Garden%29_in_Wellington_Harbour.JPG
-https://upload.wikimedia.org/wikipedia/commons/1/14/National_Archives_Catalog_icon.png
 https://upload.wikimedia.org/wikipedia/commons/e/e6/Parliament_House_%28Statue_of_Richard_John_Seddon_1845-1906%29.JPG
 https://upload.wikimedia.org/wikipedia/commons/7/7d/Parliament_House_Wellington.JPG
 https://upload.wikimedia.org/wikipedia/commons/f/fe/Parliament_Library.JPG
@@ -55,10 +54,8 @@ https://upload.wikimedia.org/wikipedia/commons/b/bb/Auckland_skyline_from_harbou
 https://upload.wikimedia.org/wikipedia/commons/8/8d/Auckland_urban_area.png
 https://upload.wikimedia.org/wikipedia/commons/2/2c/Civic_Theatre_Auckland.jpg
 https://upload.wikimedia.org/wikipedia/commons/c/c5/Devonport_1_%285642747430%29.jpg
-https://upload.wikimedia.org/wikipedia/commons/d/d0/IdRef_favicon.png
 https://upload.wikimedia.org/wikipedia/commons/d/da/Lion_Rock_from_South_Piha.jpg
 https://upload.wikimedia.org/wikipedia/commons/c/c6/Map_of_the_Auckland_urban_area%2C_2009%2C_cropped.jpg
-https://upload.wikimedia.org/wikipedia/commons/1/14/National_Archives_Catalog_icon.png
 https://upload.wikimedia.org/wikipedia/commons/1/12/Rangitoto_island_from_north_head.jpg
 https://upload.wikimedia.org/wikipedia/commons/0/03/Royal_Oak_roundabout_Aerial_Photograph.jpg
 https://upload.wikimedia.org/wikipedia/commons/f/f6/Skyline_of_Auckland_2012_flickr.jpg
@@ -159,7 +156,6 @@ https://upload.wikimedia.org/wikipedia/commons/2/27/MalayanSunBear.jpg
 https://upload.wikimedia.org/wikipedia/commons/b/b8/Map_of_Bear_species_distribution.png
 https://upload.wikimedia.org/wikipedia/commons/2/26/Mapa_distribuicao_Ailuropoda_melanoleuca.png
 https://upload.wikimedia.org/wikipedia/commons/5/5c/Melursus_skull.jpg
-https://upload.wikimedia.org/wikipedia/commons/1/14/National_Archives_Catalog_icon.png
 https://upload.wikimedia.org/wikipedia/commons/8/86/Osoandino.jpg
 https://upload.wikimedia.org/wikipedia/commons/7/72/Ours_Blanc.jpg
 https://upload.wikimedia.org/wikipedia/commons/7/73/Oursonne_et_son_petit.jpg
@@ -225,7 +221,6 @@ https://upload.wikimedia.org/wikipedia/commons/c/cc/King_of_herrings.png
 https://upload.wikimedia.org/wikipedia/commons/3/3f/Lampetra_fluviatilis.jpg
 https://upload.wikimedia.org/wikipedia/commons/7/7e/Messina_Straits_Argyropelecus_hemigymnus.jpg
 https://upload.wikimedia.org/wikipedia/commons/b/b7/Myctophum_punctatum1.jpg
-https://upload.wikimedia.org/wikipedia/commons/1/14/National_Archives_Catalog_icon.png
 https://upload.wikimedia.org/wikipedia/commons/b/bf/Osteoglossum_bicirrhosum.JPG
 https://upload.wikimedia.org/wikipedia/commons/9/96/PRUNIER_Manufacture_Aquitaine_France.jpg
 https://upload.wikimedia.org/wikipedia/commons/d/d5/Pacific_lamprey_Bonneville_Dam_2017.jpg
