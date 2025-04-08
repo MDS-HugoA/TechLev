@@ -149,7 +149,6 @@ https://upload.wikimedia.org/wikipedia/commons/b/bf/Japanese_black_bear_1.jpg
 https://upload.wikimedia.org/wikipedia/commons/3/36/King_of_the_Hill_%284204077163%29.jpg
 https://upload.wikimedia.org/wikipedia/commons/9/93/Kodiak_Bear_at_Dog_Salmon_Creek%2C_USFWS_11389.jpg
 https://upload.wikimedia.org/wikipedia/commons/e/e0/Leefgebied_aziatische_zwarte_beer.jpg
-https://upload.wikimedia.org/wikipedia/commons/e/e3/Malaienbaer2_fcm.jpg
 https://upload.wikimedia.org/wikipedia/commons/2/27/MalayanSunBear.jpg
 https://upload.wikimedia.org/wikipedia/commons/b/b8/Map_of_Bear_species_distribution.png
 https://upload.wikimedia.org/wikipedia/commons/2/26/Mapa_distribuicao_Ailuropoda_melanoleuca.png
@@ -162,6 +161,7 @@ https://upload.wikimedia.org/wikipedia/commons/8/8b/Polar_bear%2C_Gerrit_de_Veer
 https://upload.wikimedia.org/wikipedia/commons/2/24/Polar_bear_range_map.png
 https://upload.wikimedia.org/wikipedia/commons/8/8f/Sahoro_Resort_Bear_Mountain_%E3%82%B5%E3%83%9B%E3%83%AD%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88_%E3%83%99%E3%82%A2%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B311.jpg
 https://upload.wikimedia.org/wikipedia/commons/a/a6/Sitting_sun_bear.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/0c/Morena_pimienta_%28Gymnothorax_griseus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-19%2C_DD_54.jpg
 https://upload.wikimedia.org/wikipedia/commons/e/e1/SlothBear2.jpg
 https://upload.wikimedia.org/wikipedia/commons/d/d0/SlothBearMotherCub.jpg
 https://upload.wikimedia.org/wikipedia/commons/c/c3/SlothBearTree.jpg
